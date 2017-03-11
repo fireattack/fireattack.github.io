@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>test</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="./test.js"></script>
+    <script>
+        function ChangeColor() {
+            var element = document.getElementById("testid");
+            element.innerHTML = "new content";
+            var element = document.getElementById("testid");
+            element.innerHTML = "Changed";
+            $("head").append("<link>");
+            $("head").children(":last").attr({
+                rel: "stylesheet",
+                type: "text/css",
+                href: './test.css'
+            });
+
+        }
+    </script>
+
+</head>
+
+<body onload="ChangeColor()">
+    <div id="testid">old content</div>
+</body>
