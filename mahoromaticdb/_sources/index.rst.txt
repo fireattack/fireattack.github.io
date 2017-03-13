@@ -6,9 +6,10 @@
 まほろまてぃっく Music and Lyrics Database
 =======================================
 
-.. toctree::
-   :maxdepth: 2   
+.. toctree::  
    
-   cdlist
+	cdlist
+	songs/index
 
 * :ref:`search`
+* :ref:`cdlist`

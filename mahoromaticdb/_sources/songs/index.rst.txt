@@ -1,0 +1,7 @@
+Songs
+==========
+
+.. toctree::
+	:glob: 
+
+	*

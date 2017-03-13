@@ -9,7 +9,7 @@ CD list
 
 .. _ost1:
 
-まほろまてぃっく音楽編1
+まほろまてぃっく 音楽編1
 -----------------------------------------------
 
 .. image:: images/ost1.png
@@ -18,7 +18,7 @@ CD list
 * PICA-1246
 * 2001/11/22
 
-#. :smallfont:`[歌]` かえりみち
+#. :smallfont:`[歌]` `songs/kaerimichi`
 #. :smallfont:`[曲]` アイキャッチ
 #. :smallfont:`[曲]` ヴェスパーの偉大なる戦士
 #. :smallfont:`[曲]` はい、それが私です

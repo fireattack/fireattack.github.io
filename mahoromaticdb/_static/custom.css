@@ -2,3 +2,11 @@
     font-size: 80%;
 	color: grey;
 }
+
+.ja{
+	font-family: 'Lucida Grande','Helvetica Neue',Helvetica,Arial,Verdana, Meiryo, "MS PGothic", sans-serif;
+}
+
+.cn{
+	font-family: 'Lucida Grande','Helvetica Neue',Helvetica,Arial,Verdana, "Microsoft YaHei", "SimSun", sans-serif;
+}
