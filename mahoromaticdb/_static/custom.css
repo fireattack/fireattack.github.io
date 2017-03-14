@@ -8,5 +8,9 @@
 }
 
 .cn{
-	font-family: 'Lucida Grande','Helvetica Neue',Helvetica,Arial,Verdana, "Microsoft YaHei", "SimSun", sans-serif;
+	font-family: 'Lucida Grande','Helvetica Neue',Helvetica,Arial,Verdana, "Hiragino Sans GB", "Microsoft YaHei", "Microsoft JhengHei",  sans-serif;
+}
+
+a {
+    text-decoration: none !important;
 }

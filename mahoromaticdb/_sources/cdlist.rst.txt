@@ -18,42 +18,42 @@ CD list
 * PICA-1246
 * 2001/11/22
 
-#. :smallfont:`[歌]` `songs/kaerimichi`
+#. :smallfont:`[歌]` `songs/kaerimichi` :smallfont:`歌：川澄綾子`
 #. :smallfont:`[曲]` アイキャッチ
 #. :smallfont:`[曲]` ヴェスパーの偉大なる戦士
 #. :smallfont:`[曲]` はい、それが私です
-#. :smallfont:`[曲]` 美里優·中学生·一人暮らし
+#. :smallfont:`[曲]` 美里優・中学生・一人暮らし
 #. :smallfont:`[曲]` メイドさんがやって来た
 #. :smallfont:`[曲]` 母のぬくもり
 #. :smallfont:`[曲]` 最後の願い
-#. :smallfont:`[曲]` トラブル発生!
+#. :smallfont:`[曲]` トラブル発生！
 #. :smallfont:`[曲]` ホッと一息
 #. :smallfont:`[曲]` 2年4組のみなさん
-#. :smallfont:`[曲]` 女教師·式条沙織(25歳)
-#. :smallfont:`[曲]` 式条のエロエロ·パート1(昼の部)
-#. :smallfont:`[曲]` えっちなのはいけないと思います!
-#. :smallfont:`[曲]` 式条のエロエロ·パート2(夜の部)
-#. :smallfont:`[曲]` 調教美獣VSつるぺたメイド·果てしなき戦い
-#. :smallfont:`[曲]` 騒!騒!騒!
+#. :smallfont:`[曲]` 女教師式条沙織（25歳）
+#. :smallfont:`[曲]` 式条のエロエロ・パート１（昼の部）
+#. :smallfont:`[曲]` えっちなのはいけないと思います！
+#. :smallfont:`[曲]` 式条のエロエロ・パート２（夜の部）
+#. :smallfont:`[曲]` 調教美獣 VS つるぺたメイド・果てしなき戦い
+#. :smallfont:`[曲]` 騒！騒！騒！
 #. :smallfont:`[曲]` あんの小娘がっ!千切れ飛ぶかと…
 #. :smallfont:`[曲]` 縁側にて
-#. :smallfont:`[曲]` 最後の願い(バリエージョン)
+#. :smallfont:`[曲]` 最後の願い（バリエーション）
 #. :smallfont:`[曲]` 悲しみは戦場の彼方に
 #. :smallfont:`[曲]` あやまちの記憶
-#. :smallfont:`[曲]` 紫陽花の咲く庭で(Instrumental)
+#. :smallfont:`[曲]` 紫陽花の咲く庭で（Instrumental）
 #. :smallfont:`[曲]` 残された時間
-#. :smallfont:`[歌]` まほろDEまんぼー
-#. :smallfont:`[曲]` かえりみち(オリジナル·カラオケ)
-#. :smallfont:`[曲]` まほろDEまんぼー(オリジナル·カラオケ)
+#. :smallfont:`[歌]` `songs/mahorodemambo` :smallfont:`歌：とりおまてぃっく（菊池由美、水野愛日、真田アサミ）`
+#. :smallfont:`[曲]` `songs/kaerimichi`\ :smallfont:`（オリジナル・カラオケ）`
+#. :smallfont:`[曲]` `songs/mahorodemambo`\ :smallfont:`（オリジナル・カラオケ）`
 #. :smallfont:`[曲]` まほろさん、目覚ましコール
-#. :smallfont:`[语]` おまけメッセージ“まほろさん、目覚ましコール”
-#. :smallfont:`[语]` おまけメッセージ“まほろさん、留守電コール”
-#. :smallfont:`[语]` おまけメッセージ“まほろさん、カップラーメンタイマー”
-#. :smallfont:`[语]` おまけメッセージ“「えっちなのはいけないと思います」五段階活用”
+#. :smallfont:`[語]` まほろさん、おやすみ癒しコール :smallfont:`おまけメッセージ`
+#. :smallfont:`[語]` まほろさん、留守電コール :smallfont:`おまけメッセージ`
+#. :smallfont:`[語]` まほろさん、カップラーメンタイマー :smallfont:`おまけメッセージ`
+#. :smallfont:`[語]` `songs/omakemessage` :smallfont:`おまけメッセージ`
 
 .. _drama1:
 
-まほろまてぃっく CD どらまてぃっく1
+まほろまてぃっく CD どらまてぃっく★1
 ----------------------------------------
 
 .. image:: images/drama1.png
@@ -62,18 +62,18 @@ CD list
 * PICA-0012
 * 2001/12/21
    
-#. :smallfont:`[歌]` メイドのココロ（歌：まほろさん）
-#. :smallfont:`[语]` まろまろま日記.その1「まほろさんの一日」
-#. :smallfont:`[歌]` おお!ハピネス（歌：まほろさん＆優くん）
-#. :smallfont:`[语]` こんなおはなしはいけないと思います.その1「新婚はんいらっしゃい」
-#. :smallfont:`[语]` キャラクターメッセージ
-#. :smallfont:`[曲]` メイドのココロ(Original Karaoke)
-#. :smallfont:`[曲]` おお!ハピネス(Original Karaoke)
+#. :smallfont:`[歌]` `songs/maidnokokoro` :smallfont:`歌：川澄綾子`
+#. :smallfont:`[語]` まほろまてぃっく まろまろま日記・その1「まほろさんの一日」
+#. :smallfont:`[歌]` `songs/oohappiness` :smallfont:`歌：川澄綾子、瀧本富士子`
+#. :smallfont:`[語]` こんなおはなしはいけないと思います・その1「新婚はんいらっしゃい」
+#. :smallfont:`[語]` キャラクターメッセージ
+#. :smallfont:`[曲]` `songs/maidnokokoro`\ :smallfont:`（オリジナル・カラオケ）`
+#. :smallfont:`[曲]` `songs/oohappiness`\ :smallfont:`（オリジナル・カラオケ）`
 
 
 .. _drama2:
 
-まほろまてぃっく CD どらまてぃっく2
+まほろまてぃっく CD どらまてぃっく★★2
 ----------------------------------------
 
 .. image:: images/drama2.png
@@ -82,18 +82,18 @@ CD list
 * PICA-0013
 * 2001/12/21
 
-#. :smallfont:`[歌]` てんこもりLOVE天国（歌：とりおまてぃっく）
-#. :smallfont:`[语]` まろまろま日記.その2「さくら湯へ行こう!!」
-#. :smallfont:`[歌]` 脇・スポットライト（歌：さぶ★キャラッツ）
-#. :smallfont:`[语]` こんなおはなしはいけないと思います.その2「カプセル IN まほろまてぃっく」
-#. :smallfont:`[语]` キャラクターメッセージ
-#. :smallfont:`[曲]` てんこもりLOVE天国(Original Karaoke)
-#. :smallfont:`[曲]` 脇・スポットライト(Original Karaoke)
+#. :smallfont:`[歌]` `songs/tenkomorilovetengoku` :smallfont:`歌：とりおまてぃっく（菊池由美、水野愛日、真田アサミ）`
+#. :smallfont:`[語]` まほろまてぃっく まろまろま日記・その2「さくら湯へ行こう!!」
+#. :smallfont:`[歌]` `songs/wakispotlight` :smallfont:`歌：さぶ★キャラッツ（荻原秀樹、私市淳）`
+#. :smallfont:`[語]` こんなおはなしはいけないと思います・その2「カプセル IN まほろまてぃっく」
+#. :smallfont:`[語]` キャラクターメッセージ
+#. :smallfont:`[曲]` `songs/tenkomorilovetengoku`\ :smallfont:`（オリジナル・カラオケ）`
+#. :smallfont:`[曲]` `songs/wakispotlight`\ :smallfont:`（オリジナル・カラオケ）`
 
 
 .. _drama3:
 
-まほろまてぃっく CD どらまてぃっく3
+まほろまてぃっく CD どらまてぃっく★★★3
 ----------------------------------------
 
 .. image:: images/drama3.png
@@ -102,13 +102,13 @@ CD list
 * PICA-0014
 * 2001/12/21
 
-#. :smallfont:`[歌]` ほん・ふわ・しゅっしゅ（歌：まほろさん）
-#. :smallfont:`[语]` まろまろま日記.その3「Happy Birthday 優!!」
-#. :smallfont:`[歌]` カン治外法権 ～アタシ流～（歌：式条先生）
-#. :smallfont:`[语]` こんなおはなしはいけないと思います.その3「えっちなのはいいと思います」
-#. :smallfont:`[语]` キャラクターメッセージ
-#. :smallfont:`[曲]` ほん・ふわ・しゅっしゅ (Original Karaoke)
-#. :smallfont:`[曲]` カン治外法権 ～アタシ流～(Original Karaoke)
+#. :smallfont:`[歌]` `songs/ponfuwashushu` :smallfont:`歌：川澄綾子`
+#. :smallfont:`[語]` まほろまてぃっく まろまろま日記・その3「Happy Birthday 優!!」
+#. :smallfont:`[歌]` `songs/kanchigaihouken` :smallfont:`歌：高田由美`
+#. :smallfont:`[語]` こんなおはなしはいけないと思います・その3「えっちなのはいいと思います」
+#. :smallfont:`[語]` キャラクターメッセージ
+#. :smallfont:`[曲]` `songs/ponfuwashushu`\ :smallfont:`（オリジナル・カラオケ）`
+#. :smallfont:`[曲]` `songs/kanchigaihouken`\ :smallfont:`（オリジナル・カラオケ）`
 
 
 .. _ost2:
@@ -123,26 +123,29 @@ CD list
 * 2002/2/22
 
 #. :smallfont:`[曲]` WARNING!
-#. :smallfont:`[曲]` 目が…見えない!
+#. :smallfont:`[曲]` 目が…見えない！
 #. :smallfont:`[曲]` 恐怖と戦慄の一夜
-#. :smallfont:`[曲]` 緋立第四中学の九不思議を検証せよ!
+#. :smallfont:`[曲]` 緋立第四中学の九不思議を検証せよ！
 #. :smallfont:`[曲]` 「赤毛の安藤さん」
-#. :smallfont:`[曲]` サポートメカV1046R9-SLASH ZERO
+#. :smallfont:`[曲]` サポートメカ:V1046R9-SLASH ZERO
 #. :smallfont:`[曲]` 流河先生登場
 #. :smallfont:`[曲]` リューガVSまほろ&スラッシュ
 #. :smallfont:`[曲]` 疑惑
-#. :smallfont:`[曲]` 確信,そして忠告
-#. :smallfont:`[曲]` そうだ,木に登ろう…。
+#. :smallfont:`[曲]` 確信、そして忠告。
+#. :smallfont:`[曲]` そうだ、木に登ろう…。
 #. :smallfont:`[曲]` 宿命の対峙 Part.1
 #. :smallfont:`[曲]` 宿命の対峙 Part.2
-#. :smallfont:`[歌]` まあるいお月さま(川澄綾子)
-#. :smallfont:`[歌]` メイドさんって素敵です(川澄綾子)
-#. :smallfont:`[歌]` 紫陽花の咲く庭で(川澄綾子)〈CDドラマ まほろまていっく~Automatic Maiden~外伝 第5章「今日も元気なメイドさん」第3.5話「大晦日大掃除大勝負」〉
-#. :smallfont:`[语]` 第一幕
-#. :smallfont:`[语]` 第ニ幕
-#. :smallfont:`[语]` 第三幕
-#. :smallfont:`[语]` 第四幕
-#. :smallfont:`[语]` 閉幕
+#. :smallfont:`[歌]` `songs/maruiotsukisama` :smallfont:`歌：川澄綾子`
+#. :smallfont:`[歌]` `songs/maid-santtesutekidesu` :smallfont:`歌：川澄綾子`
+#. :smallfont:`[歌]` `songs/ajisainosakuniwade` :smallfont:`歌：川澄綾子`
+
+CDドラマ まほろまていっく~Automatic Maiden~外伝 第5章「今日も元気なメイドさん」第3.5話「大晦日大掃除大勝負」
+
+17. :smallfont:`[語]` 第一幕
+18. :smallfont:`[語]` 第ニ幕
+19. :smallfont:`[語]` 第三幕
+20. :smallfont:`[語]` 第四幕
+21. :smallfont:`[語]` 閉幕
 
 .. _afterschool:
 
@@ -155,13 +158,15 @@ CD list
 * PICA-0017
 * 2002/4/1
 
-#. :smallfont:`[歌]` アフタースクール
-#. :smallfont:`[歌]` いち、にの、さんっ、Ｐｅａｃｅ！
-#. :smallfont:`[语]` とりおまてぃっくデビューおめでとうメッセージ
-#. :smallfont:`[曲]` アフタースクール（オリジナルカラオケ）
-#. :smallfont:`[曲]` いち、にの、さんっ、Ｐｅａｃｅ！（オリジナルカラオケ）
-#. :smallfont:`[歌]` まほろＤＥまんぼー（ウキウキＨｉｐ-ＨｏｐＶＥＲＳＩＯＮ）
-#. :smallfont:`[歌]` まほろＤＥまんぼー（ＴＶサイズ）
+#. :smallfont:`[歌]` `songs/afterschool`
+#. :smallfont:`[歌]` `songs/ichininosanpeace`
+#. :smallfont:`[語]` とりおまてぃっくデビューおめでとうメッセージ
+#. :smallfont:`[曲]` `songs/afterschool`\ :smallfont:`（オリジナル・カラオケ）`
+#. :smallfont:`[曲]` `songs/ichininosanpeace`\ :smallfont:`（オリジナル・カラオケ）`
+#. :smallfont:`[歌]` `songs/mahorodemambo`\ :smallfont:`（ウキウキ Hip-Hop Version）`
+#. :smallfont:`[歌]` `songs/mahorodemambo`\ :smallfont:`（TVサイズ）`
+
+All songs: 歌：とりおまてぃっく（菊池由美、水野愛日、真田アサミ）
 
 .. _torioteikou:
 
@@ -174,19 +179,21 @@ CD list
 * PICA-1256
 * 2002/9/6
 
-#. :smallfont:`[歌]` 茶の間でチャチャチャ
-#. :smallfont:`[歌]` ワンダフルにスペシャルでビューティフル！
-#. :smallfont:`[歌]` アフタースクール
-#. :smallfont:`[歌]` 「長」のつく女
-#. :smallfont:`[歌]` 友情＜愛情（ゆうじょうよりあいじょう）
-#. :smallfont:`[歌]` 食べちゃいたいの
-#. :smallfont:`[歌]` てんこもりLOVE天国
-#. :smallfont:`[歌]` 声をそろえて…
-#. :smallfont:`[歌]` まほろDEまんぼー
+#. :smallfont:`[歌]` `songs/chanomadechachacha`
+#. :smallfont:`[歌]` `songs/wonderfulnispecialdebeautiful` :smallfont:`歌：等々力凛（水野愛日）`
+#. :smallfont:`[歌]` `songs/afterschool`
+#. :smallfont:`[歌]` `songs/naganotsukuonna` :smallfont:`歌：佐倉深雪（菊地由美）`
+#. :smallfont:`[歌]` `songs/yuujouyoriaijou`
+#. :smallfont:`[歌]` `songs/tabechaitaino` :smallfont:`歌：大江千鶴子（真田アサミ）`
+#. :smallfont:`[歌]` `songs/tenkomorilovetengoku`
+#. :smallfont:`[歌]` `songs/koewosoroete`
+#. :smallfont:`[歌]` `songs/mahorodemambo`
+
+All unmarked songs: 歌：とりおまてぃっく（菊池由美、水野愛日、真田アサミ）
 
 .. _radio:
 
-まほろまてぃっく ラジオdeどらまていっく
+まほろまてぃっく ラジオDEどらまていっく
 ----------------------------------------
 
 .. image:: images/radio.png
@@ -195,26 +202,26 @@ CD list
 * PICA-1257
 * 2002/9/26
 
-* Disc1:
+Disc1:
 
-  #. :smallfont:`[歌]` まほろDEまんぼー (ウキウキ HIP-HOP Short Version)
-  #. :smallfont:`[语]` 第1話 またまた過去に追われるメイドさん
-  #. :smallfont:`[语]` 第2話 シャーマンクッキング
-  #. :smallfont:`[语]` 第3話 とりおまてぃっくすぱいらる
-  #. :smallfont:`[语]` 第4話 となりのトロロ
-  #. :smallfont:`[语]` 第5話 むにゃしひべ
-  #. :smallfont:`[语]` 第6話 今、君が燃え尽きるとき
-  #. :smallfont:`[语]` 第7話 緋立悶絶川下り!!
-  #. :smallfont:`[语]` 第8話 スラッシュの独白
-  #. :smallfont:`[语]` 第9話 はまぢ式、試験必勝法!?
-  #. :smallfont:`[语]` 第10話 カラオケあるある大辞典
-  #. :smallfont:`[语]` 第11話 優、ただいま増殖中!?
-  #. :smallfont:`[歌]` アフタースクール after school (Short Version)
-* Disc2:
+#. :smallfont:`[歌]` `songs/mahorodemambo`\ :smallfont:`（ウキウキ Hip-Hop Version） 歌：とりおまてぃっく（菊池由美、水野愛日、真田アサミ）`
+#. :smallfont:`[語]` 第1話 またまた過去に追われるメイドさん
+#. :smallfont:`[語]` 第2話 シャーマンクッキング
+#. :smallfont:`[語]` 第3話 とりおまてぃっくすぱいらる
+#. :smallfont:`[語]` 第4話 となりのトロロ
+#. :smallfont:`[語]` 第5話 むにゃしひべ
+#. :smallfont:`[語]` 第6話 今、君が燃え尽きるとき
+#. :smallfont:`[語]` 第7話 緋立悶絶川下り!!
+#. :smallfont:`[語]` 第8話 スラッシュの独白
+#. :smallfont:`[語]` 第9話 はまぢ式、試験必勝法!?
+#. :smallfont:`[語]` 第10話 カラオケあるある大辞典
+#. :smallfont:`[語]` 第11話 優、ただいま増殖中!?
+#. :smallfont:`[歌]` `songs/afterschool`\ :smallfont:`（Short Version） 歌：とりおまてぃっく（菊池由美、水野愛日、真田アサミ）`
 
-  #. :smallfont:`[语]` 第12話 まほろまてぃっく~もっと美しいもの~前夜祭
-  #. :smallfont:`[歌]` そ・れ・い・ゆ (TV SIZE)
+Disc2:
 
+#. :smallfont:`[語]` 第12話 まほろまてぃっく～もっと美しいもの～前夜祭
+#. :smallfont:`[歌]` `songs/soreiyu`\ :smallfont:`（TV SIZE） 歌：川澄綾子`
 
 .. _2ost:
 
@@ -227,13 +234,13 @@ CD list
 * PICA-1258
 * 2002/12/6
 
-#. :smallfont:`[歌]` そ・れ・い・ゆ
+#. :smallfont:`[歌]` `songs/soreiyu` :smallfont:`歌：川澄綾子`
 #. :smallfont:`[曲]` 妹ができました。
 #. :smallfont:`[曲]` よろしくお願いします。
 #. :smallfont:`[曲]` はじめてのことばかりで …
 #. :smallfont:`[曲]` ごめんなさい
-#. :smallfont:`[曲]` CODE＃370
-#. :smallfont:`[曲]` レギュラー陣も健在！？
+#. :smallfont:`[曲]` CODE #370
+#. :smallfont:`[曲]` レギュラー陣も健在!?
 #. :smallfont:`[曲]` 管理者 (THE KEEPER)
 #. :smallfont:`[曲]` もっと美しいもの…
 #. :smallfont:`[曲]` For The New Generation Part.1
@@ -241,31 +248,30 @@ CD list
 #. :smallfont:`[曲]` For The New Generation Part.3
 #. :smallfont:`[曲]` For The New Generation Part.4
 #. :smallfont:`[曲]` So Long ～
-#. :smallfont:`[歌]` とりおまてぃっく ラン らん 乱♪
-#. :smallfont:`[曲]` そ・れ・い・ゆ（オリジナル・カラオケ）
-#. :smallfont:`[曲]` とりおまてぃっく ラン らん 乱♪（オリジナル・カラオケ）
-#. :smallfont:`[语]` みなわちゃん～もっとききたいもの～ :smallfont:`おまけメッセージ`
-#. :smallfont:`[语]` みなわちゃん～もっとききたいもの～ :smallfont:`おまけメッセージ`
-#. :smallfont:`[语]` みなわちゃん～もっとききたいもの～ :smallfont:`おまけメッセージ`
-#. :smallfont:`[语]` みなわちゃん～もっとききたいもの～ :smallfont:`おまけメッセージ`
-#. :smallfont:`[语]` みなわちゃん～もっとききたいもの～ :smallfont:`おまけメッセージ`
-#. :smallfont:`[语]` みなわちゃん～もっとききたいもの～ :smallfont:`おまけメッセージ`
-#. :smallfont:`[语]` みなわちゃん～もっとききたいもの～ :smallfont:`おまけメッセージ`
-#. :smallfont:`[语]` みなわちゃん～もっとききたいもの～ :smallfont:`おまけメッセージ`
-#. :smallfont:`[语]` みなわちゃん～もっとききたいもの～ :smallfont:`おまけメッセージ`
-#. :smallfont:`[语]` みなわちゃん～もっとききたいもの～ :smallfont:`おまけメッセージ`
-#. :smallfont:`[语]` みなわちゃん～もっとききたいもの～ :smallfont:`おまけメッセージ`
-#. :smallfont:`[语]` みなわちゃん～もっとききたいもの～ :smallfont:`おまけメッセージ`
-#. :smallfont:`[语]` みなわちゃん～もっとききたいもの～ :smallfont:`おまけメッセージ`
-#. :smallfont:`[语]` みなわちゃん～もっとききたいもの～ :smallfont:`おまけメッセージ`
-#. :smallfont:`[语]` みなわちゃん～もっとききたいもの～ :smallfont:`おまけメッセージ`
-#. :smallfont:`[语]` みなわちゃん～もっとききたいもの～ :smallfont:`おまけメッセージ`
-#. :smallfont:`[语]` みなわちゃん～もっとききたいもの～ :smallfont:`おまけメッセージ`
-#. :smallfont:`[语]` みなわちゃん～もっとききたいもの～ :smallfont:`おまけメッセージ`
-#. :smallfont:`[语]` みなわちゃん～もっとききたいもの～ :smallfont:`おまけメッセージ`
-#. :smallfont:`[语]` みなわちゃん～もっとききたいもの～ :smallfont:`おまけメッセージ`
-#. :smallfont:`[语]` みなわちゃん～もっとききたいもの～ :smallfont:`おまけメッセージ`
-
+#. :smallfont:`[歌]` `songs/triomaticranranran` :smallfont:`歌：とりおまてぃっく（菊池由美、水野愛日、真田アサミ）`
+#. :smallfont:`[曲]` `songs/soreiyu`\ :smallfont:`（オリジナル・カラオケ）`
+#. :smallfont:`[曲]` `songs/triomaticranranran`\ :smallfont:`（オリジナル・カラオケ）`
+#. :smallfont:`[語]` みなわちゃん～もっとききたいもの～ :smallfont:`おまけメッセージ`
+#. :smallfont:`[語]` みなわちゃん～もっとききたいもの～ :smallfont:`おまけメッセージ`
+#. :smallfont:`[語]` みなわちゃん～もっとききたいもの～ :smallfont:`おまけメッセージ`
+#. :smallfont:`[語]` みなわちゃん～もっとききたいもの～ :smallfont:`おまけメッセージ`
+#. :smallfont:`[語]` みなわちゃん～もっとききたいもの～ :smallfont:`おまけメッセージ`
+#. :smallfont:`[語]` みなわちゃん～もっとききたいもの～ :smallfont:`おまけメッセージ`
+#. :smallfont:`[語]` みなわちゃん～もっとききたいもの～ :smallfont:`おまけメッセージ`
+#. :smallfont:`[語]` みなわちゃん～もっとききたいもの～ :smallfont:`おまけメッセージ`
+#. :smallfont:`[語]` みなわちゃん～もっとききたいもの～ :smallfont:`おまけメッセージ`
+#. :smallfont:`[語]` みなわちゃん～もっとききたいもの～ :smallfont:`おまけメッセージ`
+#. :smallfont:`[語]` みなわちゃん～もっとききたいもの～ :smallfont:`おまけメッセージ`
+#. :smallfont:`[語]` みなわちゃん～もっとききたいもの～ :smallfont:`おまけメッセージ`
+#. :smallfont:`[語]` みなわちゃん～もっとききたいもの～ :smallfont:`おまけメッセージ`
+#. :smallfont:`[語]` みなわちゃん～もっとききたいもの～ :smallfont:`おまけメッセージ`
+#. :smallfont:`[語]` みなわちゃん～もっとききたいもの～ :smallfont:`おまけメッセージ`
+#. :smallfont:`[語]` みなわちゃん～もっとききたいもの～ :smallfont:`おまけメッセージ`
+#. :smallfont:`[語]` みなわちゃん～もっとききたいもの～ :smallfont:`おまけメッセージ`
+#. :smallfont:`[語]` みなわちゃん～もっとききたいもの～ :smallfont:`おまけメッセージ`
+#. :smallfont:`[語]` みなわちゃん～もっとききたいもの～ :smallfont:`おまけメッセージ`
+#. :smallfont:`[語]` みなわちゃん～もっとききたいもの～ :smallfont:`おまけメッセージ`
+#. :smallfont:`[語]` みなわちゃん～もっとききたいもの～ :smallfont:`おまけメッセージ`
 
 .. _soundparty1:
 
@@ -278,13 +284,13 @@ CD list
 * PICA-0021
 * 2002/12/21
 
-#. :smallfont:`[歌]` ぐっとモーニング(まほろ:川澄綾子)
-#. :smallfont:`[歌]` 思春期なんてトホホのHo(美里優:瀧本富士子)
-#. :smallfont:`[歌]` 今日はわたしが起こしてア・ゲ・ル(とりおまてぃっく:菊池由美,水野愛日,真田アサミ)
-#. :smallfont:`[语]` サウンドパーティ～もっと聞きたいもの～「歓迎！美里家ご一行様・Sideまほろさん」
-#. :smallfont:`[曲]` ぐっとモーニング（オリジナル・カラオケ）
-#. :smallfont:`[曲]` 思春期なんてトホホのHo（オリジナル・カラオケ）
-#. :smallfont:`[曲]` 今日はわたしが起こしてア・ゲ・ル（オリジナル・カラオケ）
+#. :smallfont:`[歌]` `songs/goodmorning` :smallfont:`歌：まほろ（川澄綾子）`
+#. :smallfont:`[歌]` `songs/shishunkinantetohohonoho` :smallfont:`歌：美里優（瀧本富士子）`
+#. :smallfont:`[歌]` `songs/kyouwawatashigaokoshiteageru` :smallfont:`歌：とりおまてぃっく（菊池由美、水野愛日、真田アサミ）`
+#. :smallfont:`[語]` サウンドパーティ～もっと聞きたいもの～「歓迎！美里家ご一行様・Sideまほろさん」
+#. :smallfont:`[曲]` `songs/goodmorning`\ :smallfont:`（オリジナル・カラオケ）`
+#. :smallfont:`[曲]` `songs/shishunkinantetohohonoho`\ :smallfont:`（オリジナル・カラオケ）`
+#. :smallfont:`[曲]` `songs/kyouwawatashigaokoshiteageru`\ :smallfont:`（オリジナル・カラオケ）`
 
 .. _soundparty2:
 
@@ -297,14 +303,13 @@ CD list
 * PICA-0022
 * 2002/12/21
 
-
-#. :smallfont:`[歌]` よいもの(みなわ:清水愛)
-#. :smallfont:`[歌]` 純情可憐オホホのHo！(式条沙織:高田由美)
-#. :smallfont:`[歌]` 友よ，オレの胸で眠れ～タキシードは夜の保護色～(さぶ★キャラッツ:荻原秀樹,私市淳)
-#. :smallfont:`[语]` サウンドパーティ～もっと聞きたいもの～「歓迎！美里家ご一行様・Sideみなわちゃん」
-#. :smallfont:`[曲]` よいもの（オリジナル・カラオケ）
-#. :smallfont:`[曲]` 純情可憐オホホのHo！（オリジナル・カラオケ）
-#. :smallfont:`[曲]` 友よ，オレの胸で眠れ～タキシードは夜の保護色～（オリジナル・カラオケ）
+#. :smallfont:`[歌]` `songs/yoimono` :smallfont:`歌：みなわ（清水愛）`
+#. :smallfont:`[歌]` `songs/junjoukarenohohonoho` :smallfont:`歌：式条沙織（高田由美）`
+#. :smallfont:`[歌]` `songs/tomoyoorenomunedenemure` :smallfont:`さぶ★キャラッツ（荻原秀樹、私市淳）`
+#. :smallfont:`[語]` サウンドパーティ～もっと聞きたいもの～「歓迎！美里家ご一行様・Sideみなわちゃん」
+#. :smallfont:`[曲]` `songs/yoimono`\ :smallfont:`（オリジナル・カラオケ）`
+#. :smallfont:`[曲]` `songs/junjoukarenohohonoho`\ :smallfont:`（オリジナル・カラオケ）`
+#. :smallfont:`[曲]` `songs/tomoyoorenomunedenemure`\ :smallfont:`（オリジナル・カラオケ）`
 
 .. _soundmaiden:
 
@@ -317,18 +322,18 @@ CD list
 * PICA-1260
 * 2003/3/26
 
-#. :smallfont:`[歌]` お茶にしましょう（歌うメイドさん）
-#. :smallfont:`[歌]` いっしょだから（歌うメイドさん）
-#. :smallfont:`[歌]` 「ありがとう」（歌うメイドさん）
-#. :smallfont:`[语]` まほろまてぃっく～もっと美しいもの～プラスワン「時をかけるメイドさん…というか優さん？」（CDドラマ）
-#. :smallfont:`[曲]` お茶にしましょう（歌えるメイドさん～オリジナル・カラオケ集）
-#. :smallfont:`[曲]` いっしょだから（歌えるメイドさん～オリジナル・カラオケ集）
-#. :smallfont:`[曲]` 「ありがとう」（歌えるメイドさん～オリジナル・カラオケ集）
-#. :smallfont:`[曲]` メイドさんって素敵です（歌えるメイドさん～オリジナル・カラオケ集）
-#. :smallfont:`[曲]` メイドのココロ（歌えるメイドさん～オリジナル・カラオケ集）
-#. :smallfont:`[曲]` ぽん・ふわ・しゅっしゅ（歌えるメイドさん～オリジナル・カラオケ集）
-#. :smallfont:`[曲]` まあるいお月さま（歌えるメイドさん～オリジナル・カラオケ集）
-#. :smallfont:`[曲]` ぐっとモーニング（歌えるメイドさん～オリジナル・カラオケ集）
+#. :smallfont:`[歌]` `songs/ochanishimashou` :smallfont:`歌：まほろ&優（川澄綾子&瀧本富士子）`
+#. :smallfont:`[歌]` `songs/isshodakara` :smallfont:`歌：まほろ&みなわ（川澄綾子&清水愛）`
+#. :smallfont:`[歌]`  `songs/arigatou` :smallfont:`歌：まほろ（川澄綾子）`
+#. :smallfont:`[語]` まほろまてぃっく～もっと美しいもの～プラスワン「時をかけるメイドさん…というか優さん？」
+#. :smallfont:`[曲]` `songs/ochanishimashou`\ :smallfont:`（オリジナル・カラオケ）`
+#. :smallfont:`[曲]` `songs/isshodakara`\ :smallfont:`（オリジナル・カラオケ）`
+#. :smallfont:`[曲]` `songs/arigatou`\ :smallfont:`（オリジナル・カラオケ）`
+#. :smallfont:`[曲]` `songs/maid-santtesutekidesu`\ :smallfont:`（オリジナル・カラオケ）`
+#. :smallfont:`[曲]` `songs/maidnokokoro`\ :smallfont:`（オリジナル・カラオケ）`
+#. :smallfont:`[曲]` `songs/ponfuwashushu`\ :smallfont:`（オリジナル・カラオケ）`
+#. :smallfont:`[曲]` `songs/maruiotsukisama`\ :smallfont:`（オリジナル・カラオケ）`
+#. :smallfont:`[曲]` `songs/goodmorning`\ :smallfont:`（オリジナル・カラオケ）`
 
 .. _kawasumiayako:
 
@@ -341,22 +346,45 @@ CD list
 * PICA-1261
 * 2003/3/26
 
-#. :smallfont:`[歌]` そ・れ・い・ゆ
-#. :smallfont:`[歌]` メイドさんって素敵です
-#. :smallfont:`[歌]` ぐっとモーニング
-#. :smallfont:`[歌]` メイドのココロ
-#. :smallfont:`[歌]` 紫陽花の咲く庭で
-#. :smallfont:`[歌]` 告白。
-#. :smallfont:`[歌]` 濃縮還元 まほろ
-#. :smallfont:`[歌]` ぽん・ふわ・しゅっしゅ
-#. :smallfont:`[歌]` まあるいお月さま
-#. :smallfont:`[歌]` わたしのしあわせ
-#. :smallfont:`[歌]` かえりみち
+#. :smallfont:`[歌]` `songs/soreiyu`
+#. :smallfont:`[歌]` `songs/maid-santtesutekidesu`
+#. :smallfont:`[歌]` `songs/goodmorning`
+#. :smallfont:`[歌]` `songs/maidnokokoro`
+#. :smallfont:`[歌]` `songs/ajisainosakuniwade`
+#. :smallfont:`[歌]` `songs/kokuhaku`
+#. :smallfont:`[歌]` `songs/noushukukangenmahoro`
+#. :smallfont:`[歌]` `songs/ponfuwashushu`
+#. :smallfont:`[歌]` `songs/maruiotsukisama`
+#. :smallfont:`[歌]` `songs/watashinoshiawase`
+#. :smallfont:`[歌]` `songs/kaerimichi`
+
+All songs: 歌：川澄綾子
+
+.. _gameomake:
+
+まほろまてぃっく☆あどべんちゃー 特典CD
+----------------------------------------------------------
+
+.. image:: images/gameomake.jpg
+   :width: 300 px
+
+(※Game cover)
+ 
+* 品番不明
+* 2003/7/15
+
+#. :smallfont:`[語]` オープニング
+#. :smallfont:`[語]` ミニドラマ
+#. :smallfont:`[語]` サテライト・ポエム〜マジカル☆メイドまほろさん
+#. :smallfont:`[語]` サテライト・ポエム〜美里優
+#. :smallfont:`[語]` サテライト・ポエム〜田中佳美
+#. :smallfont:`[語]` サテライト・ポエム〜くの一まほろ 大和撫子七変化
+#. :smallfont:`[語]` エンディング
 
 .. _multitalking:
 
 まほろまてぃっく まるち・とーきんぐ
-----------------------------------------
+----------------------------------------------------
 
 .. image:: images/multitalking.jpg
    :width: 300 px 
@@ -364,22 +392,76 @@ CD list
 * PICA-1282
 * 2003/9/26
 
-#. :smallfont:`[语]` 映画館
-#. :smallfont:`[语]` スラッシュ
-#. :smallfont:`[语]` 美里優
-#. :smallfont:`[语]` 川原清巳
-#. :smallfont:`[语]` 大江千鶴子
-#. :smallfont:`[语]` 佐倉深雪
-#. :smallfont:`[语]` 等々力凛
-#. :smallfont:`[语]` 安藤みなわ・浜口俊也・式条沙織
-#. :smallfont:`[语]` えっちなのは…
-#. :smallfont:`[语]` まほろさん
-#. :smallfont:`[歌]` 緋立娘HA!伊達音頭  :smallfont:`歌：清水愛`
-#. :smallfont:`[曲]` 緋立娘HA!伊達音頭  :smallfont:`(オリジナル・カラオケ)`
-#. :smallfont:`[曲]` シルヴァプラナ :smallfont:`[まほろまてぃっく ～もっと美しいもの～ extra sound tracks]`
-#. :smallfont:`[曲]` in a bar :smallfont:`[まほろまてぃっく ～もっと美しいもの～ extra sound tracks]`
-#. :smallfont:`[曲]` 激突! :smallfont:`[まほろまてぃっく ～もっと美しいもの～ extra sound tracks]`
-#. :smallfont:`[曲]` So Long ～ もっと美しいもの :smallfont:`[まほろまてぃっく ～もっと美しいもの～ extra sound tracks]`
+#. :smallfont:`[語]` 映画館
+#. :smallfont:`[語]` スラッシュ
+#. :smallfont:`[語]` 美里優
+#. :smallfont:`[語]` 川原清巳
+#. :smallfont:`[語]` 大江千鶴子
+#. :smallfont:`[語]` 佐倉深雪
+#. :smallfont:`[語]` 等々力凛
+#. :smallfont:`[語]` 安藤みなわ・浜口俊也・式条沙織
+#. :smallfont:`[語]` えっちなのは…
+#. :smallfont:`[語]` まほろさん
+#. :smallfont:`[歌]` `songs/hiritsumusumehadateondo`  :smallfont:`歌：とりおまてぃっく and みなわ（菊地由美、水野愛日、真田アサミ and 清水愛）`
+#. :smallfont:`[曲]` `songs/hiritsumusumehadateondo`\ :smallfont:`（オリジナル・カラオケ）`
+#. :smallfont:`[曲]` シルヴァプラナ :smallfont:`まほろまてぃっく～もっと美しいもの～ extra sound tracks`
+#. :smallfont:`[曲]` in a bar :smallfont:`まほろまてぃっく～もっと美しいもの～ extra sound tracks`
+#. :smallfont:`[曲]` 激突！ :smallfont:`まほろまてぃっく～もっと美しいもの～ extra sound tracks`
+#. :smallfont:`[曲]` So Long ～ もっと美しいもの :smallfont:`まほろまてぃっく～もっと美しいもの～ extra sound tracks`
+
+.. ovaomake:
+
+まほろまてぃっく ただいま◇おかえり 初回限定版 特典CD
+------------------------------------------------------------------------------------------
+
+.. image:: images/ovaomake.png
+   :width: 300 px 
+   
+* GNBA-164002 (?)
+* 2009/12/23
+
+#. :smallfont:`[歌]` `songs/tadaimanokaze` :smallfont:`歌：まほろ（川澄綾子）`
+#. :smallfont:`[歌]` `songs/manotsukubugi` :smallfont:`歌：とりおまていっく（菊地由美、水野愛日、真田アサミ）&みなわ（清水愛）&まほろ（川澄綾子）`
+
+.. _bestcollection:
+
+まほろまてぃっく Best Selection
+----------------------------------------------
+
+.. image:: images/bestcollection.png
+   :width: 300 px 
+
+* GNCA-1240
+* 2009/12/23
+
+Disc1:
+
+#. :smallfont:`[歌]` `songs/kaerimichi` :smallfont:`歌：まほろ（川澄綾子）`
+#. :smallfont:`[歌]` `songs/mahorodemambo` :smallfont:`歌：とりおまてぃっく（菊池由美、水野愛日、真田アサミ）`
+#. :smallfont:`[歌]` `songs/soreiyu` :smallfont:`歌：まほろ（川澄綾子）`
+#. :smallfont:`[歌]` `songs/triomaticranranran` :smallfont:`歌：とりおまてぃっく with みなわ（菊地由美、水野愛日、真田アサミ with 清水愛）`
+#. :smallfont:`[歌]` `songs/hiritsumusumehadateondo`  :smallfont:`歌：とりおまてぃっく and みなわ（菊地由美、水野愛日、真田アサミ and 清水愛）`
+#. :smallfont:`[歌]` `songs/tadaimanokaze` :smallfont:`歌：まほろ（川澄綾子）`
+#. :smallfont:`[歌]` `songs/manotsukubugi` :smallfont:`歌：とりおまていっく（菊地由美、水野愛日、真田アサミ）&みなわ（清水愛）&まほろ（川澄綾子）`
+
+Disc2:
+
+#. :smallfont:`[語]` `songs/maidnokokoro` :smallfont:`歌：まほろ（川澄綾子）`
+#. :smallfont:`[語]` `songs/ponfuwashushu` :smallfont:`歌：まほろ（川澄綾子）`
+#. :smallfont:`[語]` `songs/chanomadechachacha` :smallfont:`歌：とりおまてぃっく（菊池由美、水野愛日、真田アサミ）`
+#. :smallfont:`[語]` `songs/wonderfulnispecialdebeautiful` :smallfont:`歌：等々力凛（水野愛日）`
+#. :smallfont:`[語]` `songs/naganotsukuonna` :smallfont:`歌：佐倉深雪（菊地由美）`
+#. :smallfont:`[歌]` `songs/tabechaitaino` :smallfont:`歌：大江千鶴子（真田アサミ）`
+#. :smallfont:`[歌]` `songs/afterschool` :smallfont:`歌：とりおまてぃっく（菊池由美、水野愛日、真田アサミ）`
+#. :smallfont:`[歌]` `songs/shishunkinantetohohonoho` :smallfont:`歌：美里優（瀧本富士子）`
+#. :smallfont:`[歌]` `songs/wakispotlight` :smallfont:`歌：さぶ★キャラッツ（荻原秀樹、私市淳）`
+#. :smallfont:`[歌]` `songs/junjoukarenohohonoho` :smallfont:`歌：式条沙織（高田由美）`
+#. :smallfont:`[歌]` `songs/yoimono` :smallfont:`歌：みなわ（清水愛）`
+#. :smallfont:`[歌]` `songs/ochanishimashou` :smallfont:`歌：まほろ&優（川澄綾子&瀧本富士子）`
+#. :smallfont:`[歌]` `songs/isshodakara` :smallfont:`歌：まほろ&みなわ（川澄綾子&清水愛）`
+#. :smallfont:`[歌]` `songs/maid-santtesutekidesu` :smallfont:`歌：まほろ（川澄綾子）`
+#. :smallfont:`[歌]` `songs/ajisainosakuniwade` :smallfont:`歌：まほろ（川澄綾子）`
+#. :smallfont:`[歌]` `songs/maruiotsukisama` :smallfont:`歌：まほろ（川澄綾子）`
 
 .. _doujin1:
 
@@ -392,12 +474,12 @@ CD list
 * 同人 By Atelier Saffron (アトリエサフラン/主催: 秋川みかぜ)
 * 2001/08/10 (C60)
 
-#. :smallfont:`[歌]` Shining of the Dark ～輝ける闇～  :smallfont:`歌：さぼさぬけ・水鶏・紫堂貴美`
-#. :smallfont:`[歌]` 風吹く街  :smallfont:`歌：高橋華南`
-#. :smallfont:`[歌]` Automatic Maiden  :smallfont:`歌：ゆうの`
-#. :smallfont:`[曲]` Shining of the Dark ～輝ける闇～  :smallfont:`(Off Vocal Version)`
-#. :smallfont:`[曲]` 風吹く街  :smallfont:`(Off Vocal Version)`
-#. :smallfont:`[曲]` Automatic Maiden  :smallfont:`(Off Vocal Version)`
+#. :smallfont:`[歌]` Shining of the Dark ～輝ける闇～ :smallfont:`歌：さぼさぬけ・水鶏・紫堂貴美`
+#. :smallfont:`[歌]` 風吹く街 :smallfont:`歌：高橋華南`
+#. :smallfont:`[歌]` Automatic Maiden :smallfont:`歌：ゆうの`
+#. :smallfont:`[曲]` Shining of the Dark ～輝ける闇～\ :smallfont:`(Off Vocal Version)`
+#. :smallfont:`[曲]` 風吹く街\ :smallfont:`(Off Vocal Version)`
+#. :smallfont:`[曲]` Automatic Maiden\ :smallfont:`(Off Vocal Version)`
 
 .. _doujin2:
 

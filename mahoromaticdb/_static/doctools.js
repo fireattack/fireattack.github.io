@@ -121,7 +121,6 @@ if (!jQuery.browser) {
 var Documentation = {
 
   init : function() {
-    this.fixFirefoxAnchorBug();
     this.highlightSearchWords();
     this.initIndexTable();
   },
@@ -174,16 +173,6 @@ var Documentation = {
     });
   },
 
-  /**
-   * workaround a firefox stupidity
-   * see: https://bugzilla.mozilla.org/show_bug.cgi?id=645075
-   */
-  fixFirefoxAnchorBug : function() {
-    if (document.location.hash)
-      window.setTimeout(function() {
-        document.location.href += '';
-      }, 10);
-  },
 
   /**
    * highlight the search words provided in the url in the text
