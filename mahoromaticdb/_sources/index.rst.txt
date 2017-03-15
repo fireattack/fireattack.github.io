@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 まほろまてぃっく Music and Lyrics Database
-=======================================
+======================================================
 
 .. toctree::  
    

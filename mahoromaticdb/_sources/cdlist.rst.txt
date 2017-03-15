@@ -15,7 +15,7 @@ CD list
 .. image:: images/ost1.png
    :width: 300 px   
 
-* PICA-1246
+* PICA-1236 (通常版) / PICA-1246 (初回限定版) 
 * 2001/11/22
 
 #. :smallfont:`[歌]` `songs/kaerimichi` :smallfont:`歌：川澄綾子`
@@ -35,7 +35,7 @@ CD list
 #. :smallfont:`[曲]` 式条のエロエロ・パート２（夜の部）
 #. :smallfont:`[曲]` 調教美獣 VS つるぺたメイド・果てしなき戦い
 #. :smallfont:`[曲]` 騒！騒！騒！
-#. :smallfont:`[曲]` あんの小娘がっ!千切れ飛ぶかと…
+#. :smallfont:`[曲]` あんの小娘がっ！千切れ飛ぶかと…
 #. :smallfont:`[曲]` 縁側にて
 #. :smallfont:`[曲]` 最後の願い（バリエーション）
 #. :smallfont:`[曲]` 悲しみは戦場の彼方に
@@ -45,7 +45,7 @@ CD list
 #. :smallfont:`[歌]` `songs/mahorodemambo` :smallfont:`歌：とりおまてぃっく（菊池由美、水野愛日、真田アサミ）`
 #. :smallfont:`[曲]` `songs/kaerimichi`\ :smallfont:`（オリジナル・カラオケ）`
 #. :smallfont:`[曲]` `songs/mahorodemambo`\ :smallfont:`（オリジナル・カラオケ）`
-#. :smallfont:`[曲]` まほろさん、目覚ましコール
+#. :smallfont:`[語]` まほろさん、目覚ましコール
 #. :smallfont:`[語]` まほろさん、おやすみ癒しコール :smallfont:`おまけメッセージ`
 #. :smallfont:`[語]` まほろさん、留守電コール :smallfont:`おまけメッセージ`
 #. :smallfont:`[語]` まほろさん、カップラーメンタイマー :smallfont:`おまけメッセージ`
@@ -53,7 +53,7 @@ CD list
 
 .. _drama1:
 
-まほろまてぃっく CD どらまてぃっく★1
+まほろまてぃっく CDどらまてぃっく★1
 ----------------------------------------
 
 .. image:: images/drama1.png
@@ -73,7 +73,7 @@ CD list
 
 .. _drama2:
 
-まほろまてぃっく CD どらまてぃっく★★2
+まほろまてぃっく CDどらまてぃっく★★2
 ----------------------------------------
 
 .. image:: images/drama2.png
@@ -93,7 +93,7 @@ CD list
 
 .. _drama3:
 
-まほろまてぃっく CD どらまてぃっく★★★3
+まほろまてぃっく CDどらまてぃっく★★★3
 ----------------------------------------
 
 .. image:: images/drama3.png
@@ -139,7 +139,7 @@ CD list
 #. :smallfont:`[歌]` `songs/maid-santtesutekidesu` :smallfont:`歌：川澄綾子`
 #. :smallfont:`[歌]` `songs/ajisainosakuniwade` :smallfont:`歌：川澄綾子`
 
-CDドラマ まほろまていっく~Automatic Maiden~外伝 第5章「今日も元気なメイドさん」第3.5話「大晦日大掃除大勝負」
+CDドラマ まほろまていっく～Automatic Maiden～外伝 第5章「今日も元気なメイドさん」第3.5話「大晦日大掃除大勝負」
 
 17. :smallfont:`[語]` 第一幕
 18. :smallfont:`[語]` 第ニ幕
@@ -149,12 +149,13 @@ CDドラマ まほろまていっく~Automatic Maiden~外伝 第5章「今日も
 
 .. _afterschool:
 
-まほろまてぃっく アフタースクール after school
+アフタースクール after school
 ---------------------------------------------------------
 
 .. image:: images/afterschool.png
    :width: 300 px 
-
+   
+* By とりおまてぃっく
 * PICA-0017
 * 2002/4/1
 
@@ -170,12 +171,13 @@ All songs: 歌：とりおまてぃっく（菊池由美、水野愛日、真田
 
 .. _torioteikou:
 
-まほろまてぃっく とりおでいこう♪
+とりおでいこう♪
 ----------------------------------------
 
 .. image:: images/toriodeikou.png
    :width: 300 px 
 
+* By とりおまてぃっく
 * PICA-1256
 * 2002/9/6
 
@@ -231,7 +233,7 @@ Disc2:
 .. image:: images/2ost.png
    :width: 300 px 
 
-* PICA-1258
+* PICA-1258 (通常版) / PICA-1259 (初回限定版)
 * 2002/12/6
 
 #. :smallfont:`[歌]` `songs/soreiyu` :smallfont:`歌：川澄綾子`
@@ -343,6 +345,7 @@ Disc2:
 .. image:: images/kawasumiayako.png
    :width: 300 px 
    
+* By 川澄綾子
 * PICA-1261
 * 2003/3/26
 
@@ -383,10 +386,10 @@ All songs: 歌：川澄綾子
 
 .. _multitalking:
 
-まほろまてぃっく まるち・とーきんぐ
+まほろまてぃっく まるち★とーきんぐ
 ----------------------------------------------------
 
-.. image:: images/multitalking.jpg
+.. image:: images/multitalking.png
    :width: 300 px 
    
 * PICA-1282
@@ -417,11 +420,31 @@ All songs: 歌：川澄綾子
 .. image:: images/ovaomake.png
    :width: 300 px 
    
-* GNBA-164002 (?)
+* GNBA-164002
 * 2009/12/23
 
 #. :smallfont:`[歌]` `songs/tadaimanokaze` :smallfont:`歌：まほろ（川澄綾子）`
 #. :smallfont:`[歌]` `songs/manotsukubugi` :smallfont:`歌：とりおまていっく（菊地由美、水野愛日、真田アサミ）&みなわ（清水愛）&まほろ（川澄綾子）`
+
+.. ovaomake2:
+
+まほろまてぃっく ただいま◇おかえり 初回限定版 特典CD-ROM
+------------------------------------------------------------------------------------------
+
+.. image:: images/ovaomake.png
+   :width: 300 px 
+   
+* GNBA-164003
+* 2009/12/23
+
+#. :smallfont:`[語]` RADIOまほろまてぃっく～おかえりなさい、まほろさん#01
+#. :smallfont:`[語]` RADIOまほろまてぃっく～おかえりなさい、まほろさん#02
+#. :smallfont:`[語]` RADIOまほろまてぃっく～おかえりなさい、まほろさん#03
+#. :smallfont:`[語]` RADIOまほろまてぃっく～おかえりなさい、まほろさん#04
+#. :smallfont:`[語]` RADIOまほろまてぃっく～おかえりなさい、まほろさん#05
+#. :smallfont:`[語]` RADIOまほろまてぃっく～おかえりなさい、まほろさん#06
+#. :smallfont:`[語]` RADIOまほろまてぃっく～おかえりなさい、まほろさん#07
+#. :smallfont:`[語]` RADIOまほろまてぃっく～おかえりなさい、まほろさん#08
 
 .. _bestcollection:
 
