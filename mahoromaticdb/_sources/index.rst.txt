@@ -12,4 +12,3 @@
 	songs/index
 
 * :ref:`search`
-* :ref:`cdlist`
