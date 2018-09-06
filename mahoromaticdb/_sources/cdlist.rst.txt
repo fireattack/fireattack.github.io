@@ -497,12 +497,12 @@ Disc2:
 * 同人 By Atelier Saffron (アトリエサフラン/主催: 秋川みかぜ)
 * 2001/08/10 (C60)
 
-#. :smallfont:`[歌]` Shining of the Dark ～輝ける闇～ :smallfont:`歌：さぼさぬけ・水鶏・紫堂貴美`
-#. :smallfont:`[歌]` 風吹く街 :smallfont:`歌：高橋華南`
-#. :smallfont:`[歌]` Automatic Maiden :smallfont:`歌：ゆうの`
-#. :smallfont:`[曲]` Shining of the Dark ～輝ける闇～\ :smallfont:`(Off Vocal Version)`
-#. :smallfont:`[曲]` 風吹く街\ :smallfont:`(Off Vocal Version)`
-#. :smallfont:`[曲]` Automatic Maiden\ :smallfont:`(Off Vocal Version)`
+#. :smallfont:`[歌]` `songs/shiningofthedark` :smallfont:`歌：さぼさぬけ・水鶏・紫堂貴美`
+#. :smallfont:`[歌]` `songs/kazefukumachi` :smallfont:`歌：高橋華南`
+#. :smallfont:`[歌]` `songs/automaticmaiden` :smallfont:`歌：ゆうの`
+#. :smallfont:`[曲]` `songs/shiningofthedark` :smallfont:`(Off Vocal Version)`
+#. :smallfont:`[曲]` `songs/kazefukumachi` :smallfont:`(Off Vocal Version)`
+#. :smallfont:`[曲]` `songs/automaticmaiden` :smallfont:`(Off Vocal Version)`
 
 .. _doujin2:
 
