@@ -1,3 +1,6 @@
+<p></p>Value: <input id="value" type="text" autocomplete="off"></p>
+<p>Score: <span id="score">0</span></p>
+
 <script type="text/javascript">
     function calc(v){    
     let v_o = v;
@@ -23,8 +26,3 @@ document.getElementById("value").oninput = function(e) {
   else document.getElementById("score").textContent = calc(v);
 }
 </script>
-
-Value: <input id="value" type="text" autocomplete="off"> <br />
-<br />
-
-Score: <span id="score">0</span>
