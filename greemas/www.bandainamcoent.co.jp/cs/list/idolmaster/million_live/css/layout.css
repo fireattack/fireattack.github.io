@@ -1,0 +1,701 @@
+@charset "UTF-8";
+
+/* 共通レイアウト
+------------------------------------------------------*/
+body {
+	background: #FFF;
+	color: #333;
+	font-size: 13px;
+	font-family: "メイリオ", "ヒラギノ角ゴ Pro W3", "Osaka", "ＭＳ Ｐゴシック", Arial, sans-serif;
+	line-height: 140%;
+}
+
+a {	text-decoration: underline;outline:none;}
+a:link		{ color: #E1004D; }
+a:visited	{ color: #E1004D; }
+a:hover		{ color: #FCC; }
+a:active	{ color: #FCC; }
+
+/* 告知
+------------------------------------------------------*/
+#new_cm {
+	width:860px;
+	margin: 10px auto;
+}
+#new_cm .movieCol {
+	width:860px;
+	background:url(../images/top/newcm/bg_newcm.png) repeat;
+	display: block;
+}
+
+#new_cm a img:hover {
+  opacity: 0.6;
+  filter: alpha(opacity=60);
+  -moz-opacity: 0.6;
+  -webkit-transition: 0.3s ease-in-out;
+  -moz-transition: 0.3s ease-in-out;
+  -o-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+}
+
+.half span,
+.half div {
+  float: left;
+}
+#bnr_pv_next-prologue_s {
+  width:420px;
+  margin-top: 15px;
+  margin-left: -465px;
+}
+#bnr_pv_next-prologue_s a{
+  display:block;
+  background:url(../images/top/btn_pv_next-prologue_s.png) no-repeat top;
+  width:432px;
+  height:180px;
+  text-indent:-9999px;
+}
+#bnr_pv_next-prologue_s a:hover{
+  background-position: 0 -180px;
+}
+
+#bnr_pv_next-prologue {
+  display:block;
+  width:860px;
+	margin: -15px auto 5px;
+}
+#bnr_pv_next-prologue a{
+  display:block;
+  background:url(../images/top/btn_pv_next-prologue.png) no-repeat top;
+  width:860px;
+  height:180px;
+  text-indent:-9999px;
+}
+#bnr_pv_next-prologue a:hover{
+  background-position: 0 -185px;
+}
+
+
+/*
+#bnr_3rdTour{
+  display:block;
+  width:860px;
+	margin:0 auto 10px;
+}
+#bnr_3rdTour a{
+  display:block;
+  background:url(../images/top/bnr_3rdTour.jpg) no-repeat top;
+  width:860px;
+  height:130px;
+  text-indent:-9999px;
+}
+#bnr_3rdTour a:hover{
+  background-position:bottom;
+}
+*/
+
+/*
+#bnr_caravan{
+	display:block;
+	width:860px;
+	margin:0 auto 10px;
+}
+#bnr_caravan a{
+	display:block;
+	background:url(../images/event/caravan/bnr_caravan.jpg) no-repeat top;
+	width:860px;
+	height:180px;
+	text-indent:-9999px;
+}
+#bnr_caravan a:hover{
+	background-position:0 -180px;
+}
+
+#bnr_update{
+	display:block;
+	width:860px;
+	margin:0 auto 10px;
+}
+#bnr_update a{
+	display:block;
+	background:url(../images/event/update/bnr_update.jpg) no-repeat top;
+	width:860px;
+	height:148px;
+	text-indent:-9999px;
+}
+#bnr_update a:hover{
+	background-position:0 -148px;
+}
+*/
+/*
+#bnr_google{
+	position:relative;
+	display:block;
+	background:url(../images/top/bnr_application.jpg) no-repeat top;
+	width:860px;
+	height:200px;
+	margin:0 auto 8px;
+	text-indent:-9999px;
+}
+#bnr_google a{
+	position:absolute;
+	display:block;
+}
+#bnr_google .appStore{
+	background:url(../images/top/btn_appstore.png) no-repeat top;
+	width:235px;
+	height:74px;
+	top:108px;
+	left:172px;
+}
+#bnr_google .googlePlay{
+	background:url(../images/top/btn_googleplay.png) no-repeat top;
+	width:201px;
+	height:74px;
+	top:108px;
+	left:532px;
+}
+#bnr_google a:hover{
+	background-position: bottom;
+}
+*/
+
+#bnr_google {
+  position: relative;
+	display:block;
+	background:url(../images/top/bnr_application_2.png) no-repeat top;
+	width:420px;
+	height:430px;
+	margin:0 0 8px 45px;
+	text-indent:-9999px;
+}
+#bnr_google .appStore,
+#bnr_google .googlePlay{
+  position:absolute;
+	display:block;
+	width: 237px;
+	height: 77px;
+  left: 43px;
+}
+#bnr_google .appStore{
+  background:url(../images/top/btn_appstore_2.png) no-repeat top;
+	top: 201px;
+}
+#bnr_google .googlePlay{
+  background:url(../images/top/btn_googleplay_2.png) no-repeat top;
+	top: 331px;
+}
+#bnr_google a:hover{
+	background-position: 0 -77px;
+}
+
+.twitter_TL {
+  background: url(../images/top/img_twitter.png);
+  width: 380px;
+  height: 360px;
+  margin-left: 20px;
+  padding: 70px 20px 0;
+}
+.twitter_TL a {
+  width: 380px;
+}
+
+ul#bnr_wp{
+  position: relative;
+	display:block;
+	background:url(../images/top/bg_wp07.png) no-repeat top;
+	width:860px;
+  height:224px;
+	margin: 0 auto 10px;
+  padding: 154px 0 0 160px;
+  box-sizing: border-box;
+}
+#bnr_wp li{
+  display: inline-block;
+	width:171px;
+  margin: 2px -3px 0 0;
+}
+#bnr_wp li.wp05,
+#bnr_wp li.wp06 {
+  width: 342px;
+}
+#bnr_wp li a{
+	display:block;
+	width:171px;
+	height:56px;
+	text-indent:-9999px;
+}
+#bnr_wp li.wp01 a{background:url(../images/top/btn_wp_1920x1080.png) no-repeat top;}
+#bnr_wp li.wp02 a{background:url(../images/top/btn_wp_2560x1440.png) no-repeat top;}
+#bnr_wp li.wp03 a{background:url(../images/top/btn_wp_1920x1200.png) no-repeat top;}
+#bnr_wp li.wp04 a{background:url(../images/top/btn_wp_2560x1600.png) no-repeat top;}
+#bnr_wp li.wp05 a{
+  width: 342px;
+  margin-right: 4px;
+  background:url(../images/top/btn_wp_a3.png) no-repeat top;
+}
+#bnr_wp li.wp06 a{
+  width: 342px;
+  background:url(../images/top/btn_wp_a3_2.png) no-repeat top;
+}
+
+#bnr_wp li a:hover{
+	background-position: bottom;
+}
+
+#btnWp{
+  display: block;
+  width: 860px;
+  margin: 0 auto;
+}
+
+#btnWp a{
+  display: block;
+  background: url(../images/top/wp/btn_wp.png) no-repeat top;
+  width: 860px;
+  height: 160px;
+  text-indent: -9999px;
+}
+#btnWp a:hover{
+  background-position: bottom;
+}
+
+#btn_pvs{
+	position:absolute;
+	top:514px;
+	right:50px;
+}
+#btn_pvs a{
+	display:block;
+	background:url(../images/top/btn_pvs.png) no-repeat top;
+	width:294px;
+	height:148px;
+	text-indent:-9999px;
+}
+#btn_pvs a:hover{
+	background-position:0 -148px;
+}
+
+/* contents
+------------------------------------------------------*/
+
+#wrapCol {
+	min-width: 1150px;
+	background: url(../images/common/bg_body.jpg) repeat center top;
+}
+
+#container {
+	margin: 0 auto;
+	min-width: 1150px;
+	background: url(../images/common/bg_container.jpg) repeat-x center top;
+}
+
+#wrapper {
+	position: relative;
+	margin: 0 auto;
+	padding: 35px 6px 0;
+	background: url(../images/common/bg_wrapper.jpg) repeat-y center top;
+	width: 948px;
+}
+
+#snsCol {
+	position: absolute;
+	left: 333px;
+	top: -29px;
+	display:block;
+	padding-top: 14px;
+	background: url(../images/common/bg_sns.png) no-repeat 0 0;
+	width: 282px;
+	height: 36px;
+	text-align: center;
+}
+	#snsCol li {
+		display:inline-block;
+		padding: 0 5px;
+		width: 100px;
+		height:21px;
+	}
+	#snsCol li.sns-fb {
+		width: 120px;
+	}
+
+#btnFin {
+  width: 860px;
+  margin: 20px auto;
+  text-align: center;
+  border: 3px solid #F36;
+  border-radius: 10px;
+  background: #FFF;
+  font-size: 40px;
+  font-weight: bold;
+}
+#btnFin a {
+  display: block;
+  width: 100%;
+  height: 100%;
+  padding: 40px 0 30px;
+  text-decoration: none;
+  color: #F36;
+  box-sizing: border-box;
+}
+#btnFin a:hover {opacity: 0.6;}
+#fin {
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 20px 20px;
+  border: 3px solid #F36;
+  border-radius: 10px;
+  background: #FFF;
+  box-sizing: border-box;
+  font-size: 15px;
+  font-weight: bold;
+  color: #555;
+  line-height: 1.4em;
+}
+#fin h2 {
+  margin: 30px 0 16px;
+  padding-bottom: 5px;
+  font-size: 24px;
+  font-weight: bold;
+  color: #F36;
+  border-bottom: 1px solid #F36;
+}
+#fin p {margin-bottom: 10px;}
+#fin p:last-child {margin-bottom: 0px;}
+#fin .period {margin-bottom: 16px;}
+#fin .period span {
+  display: block;
+  margin: 0 0 5px;
+  padding: 4px 8px 2px;
+  background: rgba(255,51,102,0.1);
+  font-size: 18px;
+}
+#fin dl {margin-bottom: 20px;}
+#fin dl dt {
+  margin: 10px 0 5px;
+  padding: 4px 8px 2px;
+  background: rgba(255,51,102,0.1);
+}
+#fin p.notice {
+  font-size: 13px;
+  line-height: 1.2em;
+}
+
+#navi {
+	padding: 7px 50px 0;
+	background: url(../images/top/bg_navi.jpg) no-repeat 0 0;
+	height: 98px;
+}
+	#navi li {
+		float: left;
+		padding: 0 1px;
+	}
+	
+	#navi li a {
+		display: block;
+		background: url(../images/top/btn_navi.png) no-repeat;
+		width: 210px;
+		height: 75px;
+		text-indent: -9999px;
+	}
+		#navi li.nv-idol a {
+			background-position: 0 0;
+		}
+			#navi li.nv-idol a:hover {
+				background-position: 0 -75px;
+			}
+		#navi li.nv-game a {
+			background-position: -210px 0;
+		}
+			#navi li.nv-game a:hover {
+				background-position: -210px -75px;
+			}
+		#navi li.nv-cd a {
+			background-position: -420px 0;
+		}
+			#navi li.nv-cd a:hover {
+				background-position: -420px -75px;
+			}
+		#navi li.nv-spec a {
+			background-position: -630px 0;
+		}
+			#navi li.nv-spec a:hover {
+				background-position: -630px -75px;
+			}
+			
+#btnPtop {
+	padding:0 0 20px 713px;
+}
+	#btnPtop a {
+		display: block;
+		background: url(../images/top/btn_ptop.png) no-repeat 0 0;
+		width: 235px;
+		height: 28px;
+		text-indent: -9999px;
+	}
+	#btnPtop a:hover {
+		background-position: 0 -28px;
+	}
+
+
+/* アイドル紹介
+------------------------------------------------------*/
+#idolCol {
+	padding: 0 44px;
+	background: url(../images/top/bg_idol.jpg) no-repeat 0 0;
+	height: 621px;
+}
+
+#typeNavi {
+	margin: 0 auto;
+	padding-top: 6px;
+	width: 840px;
+	height: 74px;
+}
+	#typeNavi li {
+		float: left;
+		padding: 0 1px;
+	}
+
+#typeNavi li a {
+	display: block;
+	background: url(../images/top/btn_type.png) no-repeat;
+	width: 278px;
+	height: 58px;
+	text-indent: -9999px;
+	border: 0 !important;
+}
+	#typeNavi li.btnVocal a {
+		background-position: 0 0;
+	}
+		#typeNavi li.btnVocal.ui-tabs-active a,
+		#typeNavi li.btnVocal a:hover {
+			background-position: 0 -58px;
+		}
+	#typeNavi li.btnDance a {
+		background-position: -278px 0;
+	}
+		#typeNavi li.btnDance.ui-tabs-active a,
+		#typeNavi li.btnDance a:hover {
+			background-position: -278px -58px;
+		}
+	#typeNavi li.btnVisual a {
+		background-position: -556px 0;
+	}
+		#typeNavi li.btnVisual.ui-tabs-active a,
+		#typeNavi li.btnVisual a:hover {
+			background-position: -556px -58px;
+		}
+
+#idolCol .typeCol ul {
+	padding: 17px 10px 0;
+	height: 425px;
+}
+	#idolCol .typeCol ul li {
+		position: relative;
+		float: left;
+		padding: 0 5px 10px;
+	}
+	#idolCol .typeCol ul li.pdl145 {
+		padding: 0 5px 10px 145px;
+	}
+	#idolCol .typeCol ul li.pdl60 {
+		padding: 0 5px 10px 75px;
+	}
+	#idolCol .typeCol ul li .icoNEW {
+		display: block;
+		position: absolute;
+		right: 95px;
+		top: 87px;
+	}
+
+#vocalCol {
+	background: url(../images/top/bg_type_vocal.jpg) no-repeat;
+}
+
+#danceCol {
+	background: url(../images/top/bg_type_dance.jpg) no-repeat;
+}
+
+#visualCol {
+	background: url(../images/top/bg_type_visual.jpg) no-repeat;
+}
+
+/* download
+------------------------------------------------------*/
+#downloadCol{
+  text-align: center;
+}
+#downloadColInner{
+  background: url(../images/top/wp/bg_wp.png) repeat-y top center ;
+}
+#downloadColInner span {
+  display: block;
+  width: 830px;
+  margin: 0 auto;
+}
+#downloadColInner span a {
+  display: block;
+  width: 830px;
+  height: 150px;
+  text-indent: -9999px;
+}
+#downloadColInner span a:hover {
+  background-position: bottom;
+}
+#bnr_wp_01 a{background: url(../images/top/wp/bnr_wp01.png) no-repeat top;}
+#bnr_wp_02 a{background: url(../images/top/wp/bnr_wp02.png) no-repeat top;}
+#bnr_wp_03 a{background: url(../images/top/wp/bnr_wp03.png) no-repeat top;}
+#bnr_wp_04 a{background: url(../images/top/wp/bnr_wp04.png) no-repeat top;}
+#bnr_wp_05 a{background: url(../images/top/wp/bnr_wp05.png) no-repeat top;}
+#bnr_wp_06 a{background: url(../images/top/wp/bnr_wp06.png) no-repeat top;}
+#bnr_wp_07 a{background: url(../images/top/wp/bnr_wp07.png) no-repeat top;}
+
+
+/* スペック
+------------------------------------------------------*/
+#specCol,
+#specCol_onrelease {
+	padding-top: 141px;
+	background: url(../images/top/img_spec.jpg) no-repeat 0 0;
+	height: 105px;
+}
+#specCol_onrelease {
+	background: url(../images/top/img_spec_onrelease.jpg) no-repeat 0 0;
+}
+
+#specCol a,
+#specCol_onrelease a {
+	display: block;
+	margin: 0 auto;
+	background: url(../images/top/btn_device.jpg) no-repeat 0 0;
+	width: 350px;
+	height: 70px;
+	text-indent: -9999px;
+}
+	#specCol a:hover,
+	#specCol_onrelease a:hover {
+		background-position: 0 -70px;
+	}
+
+
+/* header
+------------------------------------------------------*/
+#header {
+	padding-bottom: 6px;
+	background: url(../images/common/bg_header.jpg) repeat center top;
+	text-align: center;
+}
+
+#header .inner {
+	position: relative;
+	margin: 0 auto;
+	width: 1150px;
+}
+
+#header .inner .btnPV {
+	position: absolute;
+	left: 885px;
+	top: 180px;
+	display: block;
+	background: url(../images/top/bg_pv.png) no-repeat 0 0;
+	width: 209px;
+	height: 178px;
+}
+/*	#header .inner .btnPV:hover {
+		background-position: -265px 0;
+	}*/
+
+
+/* footer
+------------------------------------------------------*/
+#footer {
+	margin: 0 auto;
+	padding: 20px 0 15px;
+	background: url(../images/common/bg_footer.jpg) repeat-x top center;
+	min-width: 1150px;
+}
+#footer-inner {
+  position:relative;
+  width:960px;
+  margin:0 auto;
+}
+#footer-inner a{
+  display:block;
+  position:absolute;
+  top:-6px;
+  right:0;
+}
+#footer-inner a:hover{
+  opacity:0.8;
+}
+
+
+/* 汎用クラス
+------------------------------------------------------*/
+.noborder { border:none; outline:none; }
+
+.icoNew {
+	display: block;
+	width: 28px;
+	height:16px;
+	background: url(../images/common/ico_new.png) top left no-repeat;
+	position: absolute;
+	top: 0;
+	left: 98px;
+}
+
+#gnavi:before,
+#gnavi:after,
+.clearfix:before,
+.clearfix:after {
+    content: ".";
+    display: block;
+    height: 0;
+    visibility: hidden;
+}
+#gnavi:after,
+.clearfix:after {
+    clear: both;
+}
+#gnavi,
+.clearfix {
+    zoom: 1;
+}
+
+.hidden {
+	position: absolute;
+	width: 0;
+	height: 0;
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+}
+
+.fl-left { float: left; }
+.fl-right { float: right; }
+
+.center { text-align: center;}
+
+.mgt-10 { margin-top: 10px !important; }
+.mgt-15 { margin-top: 15px !important; }
+.mgt-20 { margin-top: 20px !important; }
+.mgt-30 { margin-top: 30px !important; }
+.mgb-15 { margin-bottom: 15px !important; }
+
+/*テキスト
+----------------------------------------------------------------*/
+.font-10 { font-size: 77%; }
+.font-11 { font-size: 85%; }
+.font-12 { font-size: 93%; }
+.font-13 { font-size: 100%; }
+.font-14 { font-size: 108%; }
+.font-15 { font-size: 116%; }
+.font-16 { font-size: 123.1%; }
+.font-17 { font-size: 131%; }
+.font-18 { font-size: 138.5%; }
+.font-19 { font-size: 146.5%; }
+.font-20 { font-size: 153.9%; }
+.font-21 { font-size: 161.6%; }
+.font-22 { font-size: 167%; }
+.font-23 { font-size: 174%; }
+.font-24 { font-size: 182%; }

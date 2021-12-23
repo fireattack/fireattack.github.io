@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Mirrored from www.bandainamcoent.co.jp/cs/list/idolmaster/million_live/idol/detail.php?name=nao by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 23 Dec 2021 09:40:34 GMT -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Language" content="ja" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="imagetoolbar" content="no" />
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<title>アイドルマスター ミリオンライブ！ | バンダイナムコエンターテインメント公式サイト</title>
+<link rel="shortcut icon" type="image/png" href="favicon.ico" />
+<link rel="stylesheet" type="text/css" href="../css/reset.css" />
+<style>
+body {
+	background-color: #FFF;
+}
+#container {
+	position: relative;
+	overflow: hidden;
+	background: url(../images/idol/bg_nao_c.jpg) no-repeat 0 0;
+	width: 860px;
+	height: 420px;
+}
+#illustCol {
+	position: absolute;
+	left: 5px;
+	top: 5px;
+	width: 850px;
+	height: 410px;
+}
+.btnBack {
+	position: absolute;
+	display: block;
+	left: 714px;
+	top: 20px;
+	width: 70px;
+	height: 36px;
+}
+.btnVoice {
+	position: absolute;
+	display: block;
+	left: 20px;
+	top: 222px;
+	background: url(../images/idol/btn_play_s.png) no-repeat 0 0;
+	width: 240px;
+	height: 78px;
+	text-indent: -9999px;
+}
+	.btnVoice:hover {
+		background-position: 0 -78px;
+	}
+.btnIllust {
+	position: absolute;
+	display: block;
+	left: 282px;
+	top: 235px;
+	background: url(../images/idol/btn_illust.png) no-repeat 0 0;
+	width: 200px;
+	height: 50px;
+	text-indent: -9999px;
+}
+	.btnIllust:hover {
+		background-position: 0 -50px;
+	}
+.styleC {
+	position: absolute;
+	display: block;
+	right: -12px;
+	top: -19px;
+	background: url(../images/idol/btn_style.png) no-repeat 0 -123px;
+	width: 118px;
+	height: 123px;
+	text-indent: -9999px;
+}
+	.styleC:hover {
+		background-position: -118px -123px;
+	}
+.styleS {
+	position: absolute;
+	display: block;
+	right: -12px;
+	top: -19px;
+	background: url(../images/idol/btn_style.png) no-repeat 0 0;
+	width: 118px;
+	height: 123px;
+	text-indent: -9999px;
+}
+	.styleS:hover {
+		background-position: -118px 0;
+	}
+</style>
+<script language="javascript" type="text/javascript" src="../js/jquery.js"></script>
+<script language="javascript" type="text/javascript" src="../js/jquery.jplayer.min.js"></script>
+<script type="text/javascript">
+$(function(){
+	
+	$(document).ready(function() {
+		$("#illustCol").hide();
+	});
+	
+	var playerFlg = "pause";
+	
+	$("#audio_player").jPlayer({
+	/* イベントハンドラ */
+	ready: function(){
+		/* 再生するメディアの定義 */
+		$(this).jPlayer("setMedia", {
+			m4a: '../voice/nao.m4a',
+			oga: '../voice/nao.ogg'
+		}).jPlayer("pause"); /* 自動再生なし */
+	},
+	/* プレロード（デフォルトは'metadata'、プレロードする場合は'auto'） */
+	preload: "auto",
+	/* 音量（デフォルトは0.8、指定可能な値の範囲は0～1） */
+	volume: 0.5,
+	/* ミュートの有無（デフォルトはfalse）*/
+	muted: false,
+	/* エラーアラート表示の有無（デフォルトはfalse） */
+	errorAlerts:false,
+	/* 警告アラート表示の有無（デフォルトはfalse） */
+	warningAlerts:false,
+	/* 最後まで再生された時 */
+	ended: function (event) {
+		/* また再生する */
+		//$(this).jPlayer("play");
+	},
+	/* Jplayer.swfのパス */
+	swfPath: "../js/",
+	/* ソリューションの優先度（デフォルトは\"html, flash\") */
+	solution: 'html, flash',
+	/* フォーマット（デフォルトはmp3、カンマ区切りで複数指定可、優先度は左が高）*/
+	/* 指定可能なフォーマットは、mp3, m4a, m4v, oga, ogv, wav, webma, webmv */
+	/* 音声ならmp3 or m4a、動画ならm4v */
+	supplied: "mp3, m4a, oga",
+	wmode: "window"
+	})
+	.bind($.jPlayer.event.play, function() {
+		$(this).jPlayer("pauseOthers");
+		playerFlg = "play";
+	})
+	.bind($.jPlayer.event.pause, function() {
+		playerFlg = "pause";
+	})
+	.bind($.jPlayer.event.ended, function() {
+		playerFlg = "ended";
+	});
+	
+	$('.btnVoice').click(function(){
+		if(playerFlg == "ended"){
+			$("#audio_player").jPlayer('play');
+		}else if(playerFlg == "pause"){
+			$("#audio_player").jPlayer('play');
+		}else if(playerFlg != "pause"){
+			$("#audio_player").jPlayer('pause');
+		}else{
+			$("#audio_player").jPlayer('pause');
+		}
+	});
+	
+	$('.btnIllust').click(function(){
+		$("#illustCol").fadeIn("fast");
+	});
+	
+	$('.btnBack').click(function(){
+		$("#illustCol").fadeOut("fast");
+	});
+	
+	$('#btnStyle').click(function(){
+		if(this.className == "styleC") {
+			//$('#pics').css("opacity",0);
+			$('#pics').fadeOut();
+			this.className = "styleS";
+		} else {
+			//$('#pics').css("opacity",1);
+			$('#pics').fadeIn();
+			this.className = "styleC";
+		}
+	});
+});
+</script>
+</head>
+<body id="idol">
+<div id="container">
+	<div id="audio_player" class="jp-jplayer"></div>
+	<img src="../images/idol/bg_nao.jpg" width="860" height="420" alt="" id="pics" />
+	<a href="javascript:void(0);" class="btnVoice">アイドルからの自己紹介♪</a>
+	<a href="javascript:void(0);" class="btnIllust">表情イラストを見る</a>
+	<a href="javascript:void(0);" id="btnStyle" class="styleC">姿を見る</a>
+	<div id="illustCol"><img src="../images/idol/img_nao.png" width="850" height="410" alt="" /><a href="javascript:void(0);" class="btnBack"><img src="../js/fancybox/blank.gif" width="70" height="36" alt=""></a></div>
+</div>
+
+</body>
+
+<!-- Mirrored from www.bandainamcoent.co.jp/cs/list/idolmaster/million_live/idol/detail.php?name=nao by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 23 Dec 2021 09:40:35 GMT -->
+</html>
