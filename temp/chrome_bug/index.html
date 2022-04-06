@@ -1,7 +1,20 @@
-<style>
-    img {
-        width: 704px;
-    }
-</style>
+<div class="slidecontainer">
+    <input type="range" min="1" max="100" value="70" class="slider" id="Slider"> <p>Width: <span id="width_text">700</span></p>
+</div>
+<img src="img.jpg" id="img", width="700px">
 
-<img src="img.jpg">
+
+<script>
+    const slider = document.getElementById('Slider');
+    slider.addEventListener('input', handleChange);
+
+    function handleChange(e) {
+        const img = document.getElementById("img");
+        const { value, max } = e.target;
+        let width = value * 10;
+        width_text = document.getElementById("width_text");
+        width_text.innerHTML = width;
+        img.style.width = `${width}px`;
+    }
+
+</script>
