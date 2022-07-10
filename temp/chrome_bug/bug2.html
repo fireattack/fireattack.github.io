@@ -1,0 +1,39 @@
+<html>
+
+<head>
+  <style>
+    div#test {
+      height: 1000px;
+      width: 353.516px;
+      background-image: url("https://pbs.twimg.com/media/FXIrbugUEAE5d68?format=jpg&name=4096x4096");
+      background-size: contain;
+      background-repeat: no-repeat;
+    }
+  </style>
+</head>
+
+<body>
+<div class="slidecontainer">
+  <input type="range" min="0" max="1000" value="516" class="slider" id="Slider"> <p>Width: <span id="width_text">353.516</span>px</p>
+</div>
+
+<div id="test"></div>
+
+<script>
+  const slider = document.getElementById('Slider');
+  slider.addEventListener('input', handleChange);
+
+  function handleChange(e) {
+      const myDiv = document.getElementById("test");
+      const { value, max } = e.target;
+      let width = 353 + value / 1000;
+      width_text = document.getElementById("width_text");
+      width_text.innerHTML = width;
+      myDiv.style.width = `${width}px`;
+  }
+
+</script>
+
+</body>
+
+</html>
