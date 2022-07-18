@@ -2,7 +2,21 @@
 
 Currently available sub-sites:
 
-* [まほろまてぃっく Music and Lyrics Database](//fireattack.github.io/mahoromaticdb/)
-* [FixCue](//fireattack.github.io/FixCue/)
-* [グリマスｖｓミリシタ](//fireattack.github.io/ml_card/)
-* [グリマス HP](https://fireattack.github.io/greemas/www.bandainamcoent.co.jp/cs/list/idolmaster/million_live/)
+## [まほろまてぃっく Music and Lyrics Database](https://fireattack.github.io/mahoromaticdb/)
+
+## [FixCue](https://fireattack.github.io/FixCue/)
+
+Software publishing page
+
+## Million related
+### [グリマス vs ミリシタ card illustration comparison](https://fireattack.github.io/million/card/)
+
+### [グリマス HP mirror](https://fireattack.github.io/million/greemas/www.bandainamcoent.co.jp/cs/list/idolmaster/million_live/)
+
+### [ポプマス HP mirror](https://fireattack.github.io/million/poplinks/poplinks.idolmaster-official.jp/)
+
+See also: some old, now deleted sub-pages on Wayback Machine:
+* [/jacket_contest](https://web.archive.org/web/20210516080931/https://poplinks.idolmaster-official.jp/jacket_contest/)
+* [/senryu_contest](https://web.archive.org/web/20210710101822/https://poplinks.idolmaster-official.jp/senryu_contest/)
+* [/unitproduce_cp](https://web.archive.org/web/20210621170940/https://poplinks.idolmaster-official.jp/unitproduce_cp/)
+
