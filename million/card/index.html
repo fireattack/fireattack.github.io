@@ -12,14 +12,18 @@
         span {
             display: inline-block;
         }
-        span#threshold, span#height {
+
+        span#threshold,
+        span#height {
             width: 40px;
         }
+
         div.parent {
             display: inline-block;
             margin: auto;
             text-align: center;
         }
+
         .sub {
             font-size: 14px;
             line-height: 1;
@@ -27,6 +31,7 @@
             vertical-align: top;
             display: inline-block;
         }
+
         .sub p {
             max-height: 30px;
             margin: 0;
@@ -47,8 +52,12 @@
     <script>
         const zoomSlider = document.getElementById('zoom');
         zoomSlider.addEventListener('input', handleChangeZoom);
+
         function handleChangeZoom(e) {
-            const { value, max } = e.target;
+            const {
+                value,
+                max
+            } = e.target;
             let width = parseInt(value / 400 * 320);
             document.querySelectorAll('div.parent').forEach(div => {
                 div.style.width = `${width * 2 + 10}px`;
@@ -64,34 +73,25 @@
         }
 
         const distSlider = document.getElementById('dist');
-        distSlider.addEventListener('input', handleChangeDist);
+        const asOnly = document.getElementById('as_only');
 
-        function handleChangeDist(e) {
-            const { value, max } = e.target;
-            dist_t = value / max
+        distSlider.addEventListener('input', handleChange);
+        asOnly.addEventListener('change', handleChange);
+
+        function handleChange(e) {
+            let value = distSlider.value;
+            let max = distSlider.max;
+            let dist_t = value / max;
             document.querySelectorAll('div.parent').forEach(div => {
-                if (div.getAttribute('similarity') <= dist_t) {
+                div.style.display = 'inline-block';
+                if (asOnly.checked && div.getAttribute('idol_id') >= 14) {
                     div.style.display = 'none';
-                } else {
-                    div.style.display = 'inline-block';
+                }
+                if (div.getAttribute('similarity') < dist_t) {
+                    div.style.display = 'none';
                 }
             });
             document.getElementById("threshold").innerHTML = dist_t;
-        }
-
-        const asOnly = document.getElementById('as_only');
-        asOnly.addEventListener('change', handleChangeAsOnly);
-        function handleChangeAsOnly(e) {
-            if (e.target.checked) {
-                document.querySelectorAll('div.parent').forEach(div => {
-                    if (div.getAttribute('idol_id') < 14) div.style.display = 'inline-block';
-                    else div.style.display = 'none';
-                });
-            } else {
-                document.querySelectorAll('div.parent').forEach(div => {
-                    div.style.display = 'inline-block';
-                });
-            }
         }
     </script>
         <div class="parent" similarity="0.46875" idol_id="1" >
