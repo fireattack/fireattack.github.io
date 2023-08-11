@@ -11,6 +11,8 @@ Software publishing page
 ## Million related
 ### [グリマス vs ミリシタ card illustration comparison](https://fireattack.github.io/million/card/)
 
+### [ミリシタ all SSR card illustrations quick view](https://fireattack.github.io/million/ssr/)
+
 ### [グリマス HP mirror](https://fireattack.github.io/million/greemas/www.bandainamcoent.co.jp/cs/list/idolmaster/million_live/)
 
 ### [ポプマス HP mirror](https://fireattack.github.io/million/poplinks/poplinks.idolmaster-official.jp/)
