@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ball Control Game</title>
+    <style>
+
+        body {
+            font-family: 'Arial', sans-serif;
+            height: 100vh;
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            background-color: #f6f6f6;
+        }
+        .instructions {
+            font-size: 20px;
+            margin-bottom: 20px;
+            color: #333;
+            text-align: center;
+        }
+        #gameBox {
+            width: 500px;
+            height: 500px;
+            border: 2px solid black;
+            position: relative;
+            overflow: hidden;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        button {
+            background: linear-gradient(135deg, #f6d365, #fda085);
+            border: none;
+            padding: 10px 20px;
+            color: white;
+            border-radius: 25px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+        }
+
+        #ball {
+            width: 50px;
+            height: 50px;
+            background-color: red;
+            border-radius: 50%;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+    </style>
+</head>
+
+<body>
+    <p class="instructions">Control the ball using arrow keys</p>
+    <div id="gameBox">
+        <div id="ball"></div>
+    </div>
+
+    <!-- Download button for test.zip -->
+    <button onclick="downloadFile()">Download test.zip</button>
+
+    <script>
+        const ball = document.getElementById("ball");
+        const gameBox = document.getElementById("gameBox");
+        const boxSize = gameBox.getBoundingClientRect();
+        let ballTop = ball.offsetTop;
+        let ballLeft = ball.offsetLeft;
+
+        document.addEventListener("keydown", (e) => {
+            if (e.key === "ArrowUp" && ballTop > 0) {
+                ballTop -= 10;
+            }
+            if (e.key === "ArrowDown" && ballTop < boxSize.height - ball.offsetHeight) {
+                ballTop += 10;
+            }
+            if (e.key === "ArrowLeft" && ballLeft > 0) {
+                ballLeft -= 10;
+            }
+            if (e.key === "ArrowRight" && ballLeft < boxSize.width - ball.offsetWidth) {
+                ballLeft += 10;
+            }
+
+            ball.style.top = ballTop + "px";
+            ball.style.left = ballLeft + "px";
+        });
+
+        function downloadFile() {
+            const link = document.createElement("a");
+            link.href = "test.zip";  // Replace with the actual path to your hosted test.zip file
+            link.download = "test.zip";
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+        }
+    </script>
+</body>
+
+</html>
