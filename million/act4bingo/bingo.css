@@ -1,0 +1,192 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, Meiryo, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 10px;
+}
+
+.bingo-board {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    max-width: 560px;
+    margin: auto;
+    background: #fff;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.bingo-cell {
+    background: #ffffff;
+    padding: 20px;
+    text-align: center;
+    cursor: pointer;
+    border: 2px solid #eee;
+    transition: background-color 0.3s, border-color 0.3s;
+    aspect-ratio: 1 / 1; /* Ensures the cell is always square */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    word-break: break-word;
+    font-size: 1rem; /* Adjust based on your needs */
+}
+
+.bingo-cell:hover {
+    background-color: #e9e9e9;
+    border-color: #ccc;
+}
+
+#options {
+    margin-top: 20px;
+    max-width: 1080px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+}
+
+input {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+#producer {
+    max-width: 600px;
+}
+
+#filterInput {
+    width: calc(100% - 24px);
+}
+
+.option {
+    cursor: pointer;
+    padding: 10px;
+    border: 1px solid #ddd;
+    margin: 2px;
+    border-radius: 5px;
+    transition: background-color 0.3s, border-color 0.3s;
+}
+
+.option:hover {
+    background-color: #e9e9e9;
+    border-color: #ccc;
+}
+
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Table Styles */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    text-align: left;
+    padding: 8px;
+}
+
+th {
+    background-color: #f2f2f2;
+    cursor: pointer;
+    position: relative; /* Required for absolute positioning of the sort indicator */
+}
+
+tr:nth-child(odd) {
+    background-color: #f9f9f9;
+}
+
+/* Hover Effect on Table Rows */
+tr:hover {
+    background-color: #e9e9e9;
+    cursor: pointer;
+}
+
+/* Sort Indicator Styles */
+th.sort-asc::after, th.sort-desc::after {
+    content: "";
+    position: absolute;
+    right: 8px;
+    top: 50%;
+    border: 4px solid transparent;
+    border-bottom-color: #333; /* Arrow color */
+}
+
+th.sort-desc::after {
+    border-bottom-color: transparent;
+    border-top-color: #333; /* Arrow color for descending sort */
+}
+
+#downloadBingo {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    display: block;
+    margin: 10px auto;
+    border-radius: 5px;
+}
+
+#downloadBingo:hover {
+    background-color: #45a049;
+}
+
+/* Style for the producer name input */
+.producer-input {
+    margin-top: 10px;
+    text-align: center;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+@media (max-width: 600px) {
+    body {
+        padding: 5px; /* Adjust padding for smaller screens */
+    }
+    .bingo-board {
+        grid-template-columns: repeat(5, 16vw); /* Adjust the width of the columns */
+        max-width: 80vw; /* Adjust the width of the board */
+    }
+    .bingo-cell {
+        padding: 2vw; /* Reduce padding */
+        font-size: 2.5vw; /* Reduce font size */
+        word-break: break-all; /* Ensure words can break and wrap within the cell */
+    }
+    #options {
+        max-width: 98%; /* Use more of the screen width */
+    }
+    table {
+        font-size: 3vw; /* Smaller font size for table content */
+        width: 100%; /* Adjust the width of the table */
+        word-break: break-word;
+        table-layout: fixed;
+    }
+    /* Adjust the padding and margins to save space */
+    th, td {
+        padding: 2vw; /* Smaller padding inside table cells */
+        white-space: normal;
+    }
+    /* Ensure inputs and buttons are also scaled appropriately */
+    input, .option {
+        width: 90%; /* Allow some margin on the sides */
+        padding: 4px; /* Reduce padding for input and option buttons */
+        font-size: 3vw; /* Smaller font size for better fit */
+    }
+}

@@ -1,0 +1,14 @@
+i want to develop a quick bingo maker in web using html and js. 
+
+here are the details:
+
+1. it has a bingo board of 5x5.
+2. There is a list of options that the user can select from.
+3. There should be filter for the options because it's pretty long list.
+4. Every time the user picks one, it automatically gets populated in the bingo board.
+5. You can of course click on the option in the bingo board and it gets removed.
+
+That's it for the start.
+
+Please show me the code for it, in a HTML and a JS file.
+
