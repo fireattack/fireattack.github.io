@@ -13,6 +13,8 @@ Software publishing page
 
 ### [ミリシタ all SSR card illustrations quick view](https://fireattack.github.io/million/ssr/)
 
+### [ML10thAct4セトリ予想ビンゴメーカー](https://fireattack.github.io/million/4thbingo/)
+
 ### [グリマス HP mirror](https://fireattack.github.io/million/greemas/www.bandainamcoent.co.jp/cs/list/idolmaster/million_live/)
 
 ### [ポプマス HP mirror](https://fireattack.github.io/million/poplinks/poplinks.idolmaster-official.jp/)
