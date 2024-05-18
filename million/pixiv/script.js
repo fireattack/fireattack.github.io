@@ -15,12 +15,13 @@ function renderTable(data) {
     Object.keys(data).forEach((key, index) => {
         const total = data[key].total;
         const r18 = data[key].r18;
+        const tag = data[key].tag;
         const percentage = ((r18 / total) * 100).toFixed(2);
 
         const row = document.createElement('tr');
         row.innerHTML = `
         <td>${index + 1}</td>
-        <td><a href="https://www.pixiv.net/tags/${key}/artworks" target="_blank">${key}</a></td>
+        <td><a href="https://www.pixiv.net/tags/${tag}/artworks" target="_blank">${key}</a></td>
         <td><div class="bar " style="width: ${(total / maxTotal) * 100}%"><div class="bar-text">${total}</div></div></td>
         <td><div class="bar r18" style="width: ${(r18 / maxR18) * 100}%"><div class="bar-text">${r18}</div></div></td>
         <td><div class="bar r18" style="width: ${(percentage / maxPercentage) * 100}%"><div class="bar-text">${percentage}%</div></div></td>
